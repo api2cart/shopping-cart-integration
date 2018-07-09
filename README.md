@@ -10,10 +10,11 @@ integration is easy.<b/>
 
 Integrate once, save 4-8 weeks and thousands of dollars on each integration. Never worry about maintaining separate connections.
 
-<b>SDK and full tech support<b/>
+<b>SDK and full tech support</b>
 
 Download our SDK http://docs.api2cart.com/sdk to test how the API works.
-Our team always here to help you with any challenges. Furthermore, API2Cart can broaden functionality on request to meet unique business needs and requirements.
+Our team always here to help you with any challenges. Furthermore, API2Cart can broaden functionality on request to meet unique business needs and requirements.<br>
+
 <a href="http://docs.api2cart.com/sdk" target="_blank"><img src="https://api2cart.com/wp-content/uploads/2018/07/sdk.png" alt="SDK"></a>
  
 
