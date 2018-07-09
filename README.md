@@ -1,8 +1,8 @@
 # shopping-cart-integration
 API2Cart is a single point of interaction for 35+ shopping carts and marketplaces, including Amazon, WooCommerce, eBay, Magento.
 
-<b>With API2Cart shopping platform
-integration is easy.</b>
+<h2><b>With API2Cart shopping platform
+integration is easy.</b></h2>
 
 <p align="left">
   <img src="https://api2cart.com/wp-content/uploads/2018/07/scheme-for-adv.jpg">
@@ -10,7 +10,7 @@ integration is easy.</b>
 
 Integrate once, save 4-8 weeks and thousands of dollars on each integration. Never worry about maintaining separate connections.
 
-<b>SDK and full tech support</b>
+<h2><b>SDK and full tech support</b></h2>
 
 Download our SDK http://docs.api2cart.com/sdk to test how the API works.
 Our team always here to help you with any challenges. Furthermore, API2Cart can broaden functionality on request to meet unique business needs and requirements.<br>
@@ -22,7 +22,7 @@ We’ve created a Postman collection to make your life easier as an API2Cart use
 
 <a href="https://app.getpostman.com/run-collection/c1f578bdddf7ee311593" target="_blank"><img src="https://run.pstmn.io/button.svg" alt="Run in Postman"></a>
 
-<b>Webhooks</b>
+<h2><b>Webhooks</b></h2>
 
 Subscribe to events your app needs (e.g. product add or order update) and have them delivered right to the specified URL as they happen.
 <b>100+ methods to manage data</b>
