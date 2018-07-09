@@ -15,7 +15,7 @@ Integrate once, save 4-8 weeks and thousands of dollars on each integration. Nev
 Download our SDK http://docs.api2cart.com/sdk to test how the API works.
 Our team always here to help you with any challenges. Furthermore, API2Cart can broaden functionality on request to meet unique business needs and requirements.<br>
 
-<a href="http://docs.api2cart.com/sdk" target="_blank"><img src="https://api2cart.com/wp-content/uploads/2018/07/sdk.png" alt="SDK"></a>
+<a href="http://docs.api2cart.com/sdk" target="_blank"><img src="https://api2cart.com/wp-content/uploads/2018/07/sdk-1.png" alt="SDK"></a>
  
 
 We’ve created a Postman collection to make your life easier as an API2Cart user, letting you test out our API in no time. It includes the majority of the requests from our API. 
