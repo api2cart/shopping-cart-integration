@@ -25,7 +25,8 @@ We’ve created a Postman collection to make your life easier as an API2Cart use
 <h2><b>Webhooks</b></h2>
 
 Subscribe to events your app needs (e.g. product add or order update) and have them delivered right to the specified URL as they happen.
-<b>100+ methods to manage data</b>
+
+<h2><b>100+ methods to manage data</b></h2>
 
 Retrieve, add, delete, update, and synchronize store data from all or any of the supported shopping carts.
 
