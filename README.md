@@ -1,14 +1,16 @@
 # shopping-cart-integration
 API2Cart is a single point of interaction for 35+ shopping carts and marketplaces, including Amazon, WooCommerce, eBay, Magento.
 
-<h2><b>With API2Cart shopping platform
-integration is easy.</b></h2>
+<b>With API2Cart shopping platform
+integration is easy.</b>
 
 <p align="left">
   <img src="https://api2cart.com/wp-content/uploads/2018/07/scheme-for-adv.jpg">
 </p>
 
 Integrate once, save 4-8 weeks and thousands of dollars on each integration. Never worry about maintaining separate connections.
+
+To get started with API2Cart register an account for a 30-day trial. You can add stores and execute methods to test how API2Cart works with orders, products, categories, and other entities from stores.
 
 <h2><b>SDK and full tech support</b></h2>
 
@@ -33,3 +35,12 @@ Retrieve, add, delete, update, and synchronize store data from all or any of the
 We provide detailed documentation http://docs.api2cart.com to help you connect multiple shopping carts and marketplaces in one go. 
 
 See all supported methods and platforms https://api2cart.com/supported-api-methods/. 
+
+<h2><b>Contact us</b></h2>
+  
+If you have any questions or problems, please contact us.
+You can also reach us at manager@api2cart.com. You can also mail us your ideas and suggestions about any changes.
+
+<h2><b>Support</b></h2>
+
+This API is professionally supported by API2Cart. If you want to discuss details of how API2Cart works, contact our customer success manager at manager@api2cart.com.
